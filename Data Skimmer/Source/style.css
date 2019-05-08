@@ -1,0 +1,23 @@
+.modern {
+	font-family: Trebuchet MS
+}
+
+table {
+	width: 70%;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bordered {
+	border: 1px solid;
+}
+
+h1, h3, td {
+	text-align: center;
+}
